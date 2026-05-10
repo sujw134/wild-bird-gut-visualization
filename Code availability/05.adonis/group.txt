@@ -1,0 +1,719 @@
+Sample	Year	location	Species	Residency status
+SRR5886139	2016	Bermuda	Gallus gallus	Resident birds
+SRR5886137	2016	Bermuda	Gallus gallus	Resident birds
+SRR5886138	2016	Bermuda	Gallus gallus	Resident birds
+SRR10874871	2018-2019	China  Jilin	Emberiza elegans	Migratory birds
+SRR10874015	2018-2019	China  Jilin	Emberiza spodocephala	Migratory birds
+SRR10873993	2018-2019	China  Jilin	Emberiza spodocephala	Migratory birds
+SRR10873763	2018-2019	China  Jilin	Cecropis daurica	Migratory birds
+SRR10874069	2018-2019	China  Jilin	Lanius cristatus	Migratory birds
+SRR10874909	2018-2019	China  Jilin	Tarsiger cyanurus	Migratory birds
+SRR10873473	2018-2019	China  Jilin	Tarsiger cyanurus	Migratory birds
+SRR10873733	2018-2019	China  Jilin	Tarsiger cyanurus	Migratory birds
+SRR10873757	2018-2019	China  Jilin	Tarsiger cyanurus	Migratory birds
+SRR10873771	2018-2019	China  Jilin	Ficedula parva	Migratory birds
+SRR10873875	2018-2019	China  Jilin	Aegithalos caudatus	Resident birds
+SRR10874287	2018-2019	China  Jilin	Periparus ater	Resident birds
+SRR10874288	2018-2019	China  Jilin	Periparus ater	Resident birds
+SRR10874289	2018-2019	China  Jilin	Periparus ater	Resident birds
+SRR10873470	2018-2019	China  Jilin	Periparus ater	Resident birds
+SRR10873731	2018-2019	China  Jilin	Periparus ater	Resident birds
+SRR10873928	2018-2019	China  Jilin	Carpodacus sibiricus	Migratory birds
+SRR10874866	2018-2019	China  Jilin	Phylloscopus inornatus	Migratory birds
+SRR10874863	2018-2019	China  Jilin	Phylloscopus inornatus	Migratory birds
+SRR10874870	2018-2019	China  Jilin	Acrocephalus bistrigiceps	Migratory birds
+SRR10873476	2018-2019	China  Jilin	Phylloscopus fuscatus	Migratory birds
+SRR22099858	2021	China  Anhui	Anser erythropus	Migratory birds
+SRR10874855	2018-2019	China  Heilongjiang	Phylloscopus inornatus	Migratory birds
+SRR10874852	2018-2019	China  Heilongjiang	Phylloscopus inornatus	Migratory birds
+SRR10873992	2018-2019	China  Heilongjiang	Phylloscopus schwarzi	Migratory birds
+SRR10873474	2018-2019	China  Heilongjiang	Phylloscopus schwarzi	Migratory birds
+SRR10874819	2018-2019	China  Heilongjiang	Phylloscopus inornatus	Migratory birds
+SRR10881939	2018-2019	China  Heilongjiang	Phylloscopus inornatus	Migratory birds
+SRR10873776	2018-2019	China  Heilongjiang	Phylloscopus proregulus	Migratory birds
+SRR10873766	2018-2019	China  Heilongjiang	Phylloscopus proregulus	Migratory birds
+SRR10873760	2018-2019	China  Heilongjiang	Phylloscopus proregulus	Migratory birds
+SRR10873745	2018-2019	China  Heilongjiang	Phylloscopus fuscatus	Migratory birds
+SRR10873752	2018-2019	China  Heilongjiang	Phylloscopus fuscatus	Migratory birds
+SRR10873829	2018-2019	China  Heilongjiang	Phoenicurus auroreus	Migratory birds
+SRR10874827	2018-2019	China  Heilongjiang	Turdus pallidus	Migratory birds
+SRR10874825	2018-2019	China  Heilongjiang	Turdus pallidus	Migratory birds
+SRR10875071	2018-2019	China  Heilongjiang	Turdus pallidus	Migratory birds
+SRR10875068	2018-2019	China  Heilongjiang	Turdus naumanni	Migratory birds
+SRR10874916	2018-2019	China  Heilongjiang	Turdus naumanni	Migratory birds
+SRR10874878	2018-2019	China  Heilongjiang	Turdus hortulorum	Migratory birds
+SRR10875093	2018-2019	China  Heilongjiang	Luscinia calliope	Migratory birds
+SRR10875095	2018-2019	China  Heilongjiang	Luscinia cyane	Migratory birds
+SRR10874851	2018-2019	China  Heilongjiang	Luscinia sibilans	Migratory birds
+SRR10874854	2018-2019	China  Heilongjiang	Luscinia sibilans	Migratory birds
+SRR10874868	2018-2019	China  Heilongjiang	Luscinia sibilans	Migratory birds
+SRR10874872	2018-2019	China  Heilongjiang	Phoenicurus auroreus	Migratory birds
+SRR10873759	2018-2019	China  Heilongjiang	Turdus naumanni	Migratory birds
+SRR10873770	2018-2019	China  Heilongjiang	Turdus naumanni	Migratory birds
+SRR10874917	2018-2019	China  Heilongjiang	Luscinia calliope	Migratory birds
+SRR10874896	2018-2019	China  Heilongjiang	Luscinia calliope	Migratory birds
+SRR10875082	2018-2019	China  Heilongjiang	Luscinia calliope	Migratory birds
+SRR10874050	2018-2019	China  Heilongjiang	Jynx torquilla	Resident birds
+SRR10873876	2018-2019	China  Heilongjiang	Zosterops erythropleurus	Resident birds
+SRR10873765	2018-2019	China  Heilongjiang	Zosterops erythropleurus	Resident birds
+SRR9850918	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850919	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850920	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850921	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850939	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850974	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850976	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850977	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850978	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850979	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850980	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850981	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850982	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850983	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850984	2016	China  Henan	Cygnus cygnus	Migratory birds
+SRR9850932	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850933	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850934	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850935	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850936	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850937	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850938	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850940	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850941	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850943	2016	China  InnerMogonia	Tadorna tadorna	Migratory birds
+SRR9850922	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850923	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850924	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850925	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850928	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850945	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850946	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850947	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850951	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850952	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850953	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850954	2016	China  Jiangsu	Unknown wild birds	Unknow
+SRR9850967	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850968	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850969	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850970	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850971	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850972	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850973	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850975	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850988	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850989	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850990	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850991	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850992	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR9850993	2016	China  Jiangxi	Anser cygnoides	Migratory birds
+SRR19660474	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660473	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660472	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660471	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660470	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660469	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660468	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR19660467	2022	China  Kunming	Larus ridibundus	Migratory birds
+SRR9850955	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850956	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850957	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850958	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850959	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850960	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850961	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850962	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850963	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850964	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850965	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850966	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850985	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850986	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR9850987	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10492800	2020	China  Qinghai	Anser indicus	Migratory birds
+SRR10492799	2020	China  Qinghai	Anser indicus	Migratory birds
+SRR10492798	2020	China  Qinghai	Chroicocephalus ridibundus	Migratory birds
+SRR10492797	2020	China  Qinghai	Phalacrocorax carbo	Migratory birds
+SRR3327572	2014	China  Qinghai	Anser indicus	Migratory birds
+SRR3327573	2015	China  Qinghai	Anser indicus	Migratory birds
+CRR914878	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914879	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914880	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914881	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914882	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914883	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914884	2022	China  Qinghai	Gyps himalayensis	Resident birds
+CRR914885	2022	China  Qinghai	Gyps himalayensis	Resident birds
+SRR3327411	2014	China  Qinghai	Anser indicus	Migratory birds
+SRR3327343	2014	China  Qinghai	Anser indicus	Migratory birds
+CRR1273915	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1273916	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1273917	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1273918	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1273919	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1273920	2023	China  Qinghai	Corvus corax	Resident birds
+CRR1274818	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274819	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274820	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274821	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274822	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274823	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274824	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274825	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274826	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274827	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274828	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1274829	2023	China  Qinghai	Corvus dauuricus	Resident birds
+CRR1287467	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287468	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287469	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287470	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287471	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287472	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287473	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287474	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287475	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287476	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1287477	2023	China  Qinghai	Corvus frugilegus	Resident birds
+CRR1293703	2023	China  Qinghai	Corvus macrorhynchos	Resident birds
+CRR1293704	2023	China  Qinghai	Corvus macrorhynchos	Resident birds
+CRR1293705	2023	China  Qinghai	Corvus macrorhynchos	Resident birds
+CRR1293706	2023	China  Qinghai	Corvus macrorhynchos	Resident birds
+CRR1293707	2023	China  Qinghai	Corvus macrorhynchos	Resident birds
+CRR1274799	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274800	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274801	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274802	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274803	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274804	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274805	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274806	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274807	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274808	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274809	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274810	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274811	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274812	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274813	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274814	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274815	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274816	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+CRR1274817	2023	China  Qinghai	Pyrrhocorax pyrrhocorax	Resident birds
+SRR9850912	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850913	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850914	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850915	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850916	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850917	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850926	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850927	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850929	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850930	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850931	2016	China  Shandong	Anser fabalis	Migratory birds
+SRR9850903	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850904	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850905	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850906	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850907	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850908	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850909	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850910	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850911	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850948	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850949	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850950	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850902	2017	China  Tibet	Anser indicus	Migratory birds
+SRR9850942	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850944	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850994	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850995	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850996	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850997	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850998	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9850999	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9851000	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9851001	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9851002	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9851003	2016	China  Zhejiang	Unknown wild birds	Unknow
+SRR9851004	2016	China  Zhejiang	Unknown wild birds	Unknow
+AH02	2022	China Anhui	Anser fabalis	Migratory birds
+AH03	2022	China Anhui	Anser fabalis	Migratory birds
+AH04	2022	China Anhui	Anser fabalis	Migratory birds
+AH05	2022	China Anhui	Anser fabalis	Migratory birds
+AH07	2022	China Anhui	Anser fabalis	Migratory birds
+AH09	2022	China Anhui	Anser fabalis	Migratory birds
+AH10	2022	China Anhui	Anser fabalis	Migratory birds
+AH11	2022	China Anhui	Anser fabalis	Migratory birds
+AH12	2022	China Anhui	Anser fabalis	Migratory birds
+AH13	2022	China Anhui	Anser fabalis	Migratory birds
+SRR25662272	2020	China Jiangsu	Grus nigricollis	Migratory birds
+CRR028392	2016	China Qinghai	Anser anser	Migratory birds
+CRR028393	2016	China Qinghai	Anser anser	Migratory birds
+CRR028394	2016	China Qinghai	Anser anser	Migratory birds
+CRR028395	2016	China Qinghai	Tadorna ferruginea	Migratory birds
+CRR028396	2016	China Qinghai	Tadorna ferruginea	Migratory birds
+CRR028397	2016	China Qinghai	Tadorna ferruginea	Migratory birds
+QH01	2022	China Qinghai	Anser indicus	Migratory birds
+QH02	2022	China Qinghai	Anser indicus	Migratory birds
+QH03	2022	China Qinghai	Anser indicus	Migratory birds
+QH04	2022	China Qinghai	Anser indicus	Migratory birds
+QH05	2022	China Qinghai	Anser indicus	Migratory birds
+QH06	2022	China Qinghai	Anser indicus	Migratory birds
+QH07	2022	China Qinghai	Anser indicus	Migratory birds
+QH08	2022	China Qinghai	Anser indicus	Migratory birds
+QH10	2022	China Qinghai	Anser indicus	Migratory birds
+QH13	2022	China Qinghai	Anser indicus	Migratory birds
+QH14	2022	China Qinghai	Anser indicus	Migratory birds
+QH15	2022	China Qinghai	Anser indicus	Migratory birds
+QH16	2022	China Qinghai	Anser indicus	Migratory birds
+QH17	2022	China Qinghai	Anser indicus	Migratory birds
+QH20	2022	China Qinghai	Anser indicus	Migratory birds
+SRR27471755	2020	China Shandong	Zoothera dauma	Migratory birds
+SD01	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD02	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD03	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD04	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD05	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD06	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD07	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD08	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD09	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD10	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD13	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD14	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD15	2022	China Shandong	Cygnus cygnus	Migratory birds
+SD16	2022	China Shandong	Cygnus cygnus	Migratory birds
+CRR355451	2019	China Sichuan	Egretta garzetta	Migratory birds
+CRR355452	2019	China Sichuan	Egretta garzetta	Migratory birds
+CRR355453	2019	China Sichuan	Egretta garzetta	Migratory birds
+XZ01	2022	China Xizang	Anser indicus	Migratory birds
+XZ02	2022	China Xizang	Anser indicus	Migratory birds
+XZ04	2022	China Xizang	Anser indicus	Migratory birds
+XZ05	2022	China Xizang	Anser indicus	Migratory birds
+XZ06	2022	China Xizang	Anser indicus	Migratory birds
+XZ07	2022	China Xizang	Anser indicus	Migratory birds
+XZ08	2022	China Xizang	Anser indicus	Migratory birds
+XZ09	2022	China Xizang	Anser indicus	Migratory birds
+XZ10	2022	China Xizang	Anser indicus	Migratory birds
+XZ11	2022	China Xizang	Anser indicus	Migratory birds
+XZ12	2022	China Xizang	Anser indicus	Migratory birds
+SRR10874395	2018-2019	China  Shanghai	Egretta garzetta	Migratory birds
+SRR10874396	2018-2019	China  Shanghai	Egretta garzetta	Migratory birds
+SRR10874028	2018-2019	China  Hunan	Cygnus atratus	Resident birds
+SRR10875081	2018-2019	China  Hunan	Lophura nycthemera	Resident birds
+SRR10873775	2018-2019	China  Zhejiang	Ciconia boyciana	Migratory birds
+SRR21898906	2020	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898907	2020	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898908	2020	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898909	2020	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898910	2020	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898911	2019	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898912	2019	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898913	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898914	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898915	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898916	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898917	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898918	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898919	2021	China  Henan	Cygnus atratus	Resident birds
+SRR21898920	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898921	2019	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898922	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898923	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898924	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898925	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898926	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898927	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898928	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898929	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898930	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898931	2021	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898932	2019	China  Henan	Cygnus cygnus	Migratory birds
+SRR21898933	2019	China  Henan	Cygnus cygnus	Migratory birds
+SRR10083311	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083310	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083309	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083308	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083307	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083305	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083304	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083303	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083302	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083301	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10083300	2016	China  Jiangxi	Unknown wild birds	Unknow
+SRR10874390	2018-2019	China  Heilongjiang	Accipiter gularis	Resident birds
+SRR10873444	2018-2019	China  Heilongjiang	Cyanopica cyanus	Resident birds
+SRR10874053	2018-2019	China  Heilongjiang	Garrulus glandarius	Resident birds
+SRR10875204	2018-2019	China  Heilongjiang	Emberiza elegans	Migratory birds
+SRR10875205	2018-2019	China  Heilongjiang	Emberiza elegans	Migratory birds
+SRR10874850	2018-2019	China  Heilongjiang	Emberiza chrysophrys	Migratory birds
+SRR10875337	2018-2019	China  Heilongjiang	Emberiza tristrami	Migratory birds
+SRR10873907	2018-2019	China  Heilongjiang	Emberiza pusilla	Migratory birds
+SRR10874021	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10874019	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10874853	2018-2019	China  Heilongjiang	Carduelis spinus	Resident birds
+SRR10873950	2018-2019	China  Heilongjiang	Lanius cristatus	Migratory birds
+SRR10875473	2018-2019	China  Heilongjiang	Motacilla cinerea	Migratory birds
+SRR10875768	2018-2019	China  Heilongjiang	Motacilla cinerea	Migratory birds
+SRR10874867	2018-2019	China  Heilongjiang	Ficedula zanthopygia	Migratory birds
+SRR10873732	2018-2019	China  Heilongjiang	Phylloscopus tenellipes	Migratory birds
+SRR10874380	2018-2019	China  Heilongjiang	Saxicola torquata	Migratory birds
+SRR10874864	2018-2019	China  Heilongjiang	Tarsiger cyanurus	Migratory birds
+SRR10874865	2018-2019	China  Heilongjiang	Tarsiger cyanurus	Migratory birds
+SRR10874918	2018-2019	China  Heilongjiang	Tarsiger cyanurus	Migratory birds
+SRR10875070	2018-2019	China  Heilongjiang	Tarsiger cyanurus	Migratory birds
+SRR10873447	2018-2019	China  Heilongjiang	Ficedula mugimaki	Migratory birds
+SRR10873446	2018-2019	China  Heilongjiang	Ficedula mugimaki	Migratory birds
+SRR10874717	2018-2019	China  Heilongjiang	Turdus hortulorum	Migratory birds
+SRR10874791	2018-2019	China  Heilongjiang	Turdus hortulorum	Migratory birds
+SRR10873923	2018-2019	China  Heilongjiang	Ficedula parva	Migratory birds
+SRR10874399	2018-2019	China  Heilongjiang	Phylloscopus coronatus	Migratory birds
+SRR10875136	2018-2019	China  Heilongjiang	Parus major	Resident birds
+SRR10875305	2018-2019	China  Heilongjiang	Parus major	Resident birds
+SRR10875094	2018-2019	China  Heilongjiang	Poecile palustris	Resident birds
+SRR10875080	2018-2019	China  Heilongjiang	Aegithalos caudatus	Resident birds
+SRR10873904	2018-2019	China  Heilongjiang	Aegithalos caudatus	Resident birds
+SRR10873916	2018-2019	China  Heilongjiang	Aegithalos caudatus	Resident birds
+SRR10874070	2018-2019	China  Heilongjiang	Coccothraustes coccothraustes	Resident birds
+SRR10874718	2018-2019	China  Heilongjiang	Passer montanus	Resident birds
+SRR10873475	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10874810	2018-2019	China  Heilongjiang	Syrmaticus reevesii	Resident birds
+SRR10874829	2018-2019	China  Heilongjiang	Dendrocopos leucotos	Resident birds
+SRR10874833	2018-2019	China  Heilongjiang	Dendrocopos minor	Resident birds
+SRR10874830	2018-2019	China  Heilongjiang	Dendrocopos leucotos	Resident birds
+SRR10873966	2018-2019	China  Heilongjiang	Prunella montanella 	Resident birds
+SRR10873736	2018-2019	China  Heilongjiang	Sitta europaea	Resident birds
+SRR10873729	2018-2019	China  Heilongjiang	Sitta europaea	Resident birds
+SRR10874841	2018-2019	China  Heilongjiang	Emberiza chrysophrys	Migratory birds
+SRR10873881	2018-2019	China  Jiangsu	Streptopelia turtur	Migratory birds
+SRR10873887	2018-2019	China  Jiangsu	Streptopelia turtur	Migratory birds
+SRR10873895	2018-2019	China  Jiangsu	Streptopelia turtur	Migratory birds
+SRR10873920	2018-2019	China  Jiangsu	Streptopelia turtur	Migratory birds
+SRR10873738	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10873751	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10873756	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10873764	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10873767	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10873769	2018-2019	China  Qinghai	Anser indicus	Migratory birds
+SRR10083277	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083279	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083280	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083281	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083282	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083283	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083284	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083285	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083286	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083323	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10083324	2016	China  Qinghai	Unknown wild birds	Unknow
+SRR10874815	2018-2019	China  Hunan	Chrysolophus amherstiae	Resident birds
+SRR10874818	2018-2019	China  Hunan	Chrysolophus pictus	Resident birds
+SRR10873811	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10873863	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10873888	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10873911	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10873913	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10873924	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882830	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882828	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882820	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882650	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882647	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882646	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882641	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10882604	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10875352	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10874919	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10874838	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10874832	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10874828	2018-2019	China  Heilongjiang	Anser albifrons	Migratory birds
+SRR10874869	2018-2019	China  Heilongjiang	Emberiza elegans	Migratory birds
+SRR10874837	2018-2019	China  Heilongjiang	Emberiza chrysophrys	Migratory birds
+SRR10875096	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10875097	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10874831	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10874836	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10874840	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10874849	2018-2019	China  Heilongjiang	Emberiza rustica	Migratory birds
+SRR10874024	2018-2019	China  Heilongjiang	Emberiza pusilla	Migratory birds
+SRR10874026	2018-2019	China  Heilongjiang	Emberiza pusilla	Migratory birds
+SRR10873997	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10873975	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10873964	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10873956	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10873952	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10882847	2018-2019	China  Heilongjiang	Emberiza spodocephala	Migratory birds
+SRR10874397	2018-2019	China  Heilongjiang	Pinicola enucleator	Resident birds
+SRR10874813	2018-2019	China  Heilongjiang	Carduelis spinus	Resident birds
+SRR10874842	2018-2019	China  Heilongjiang	Carduelis spinus	Resident birds
+SRR10874862	2018-2019	China  Heilongjiang	Carpodacus erythrinus	Migratory birds
+SRR10874895	2018-2019	China  Heilongjiang	Carduelis flammea	Migratory birds
+SRR10875353	2018-2019	China  Heilongjiang	Motacilla alba	Migratory birds
+SRR10873878	2018-2019	China  Heilongjiang	Regulus Goldcrest	Resident birds
+SRR10874058	2018-2019	China  Heilongjiang	Coccothraustes coccothraustes	Resident birds
+SRR10874059	2018-2019	China  Heilongjiang	Coccothraustes coccothraustes	Resident birds
+SRR10873810	2018-2019	China  Heilongjiang	Carpodacus roseus	Migratory birds
+SRR10873780	2018-2019	China  Heilongjiang	Carpodacus roseus	Migratory birds
+SRR10873974	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10873977	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10873981	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10873995	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10873998	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10873761	2018-2019	China  Heilongjiang	Fringilla montifringilla	Migratory birds
+SRR10874030	2018-2019	China  Heilongjiang	Eophona migratoria	Migratory birds
+SRR10873954	2018-2019	China  Heilongjiang	Prunella montanella 	Resident birds
+DRR279222	2016	Japan	Anas acuta	Migratory birds
+DRR279219	2016	Japan	Anas penelope	Migratory birds
+DRR279221	2016	Japan	Anas penelope	Migratory birds
+DRR279220	2016	Japan	Anas platyrhynchos?or/and?Anas zonorhyncha	Migratory birds
+DRR173096	2016	Japan	Grus monacha	Migratory birds
+DRR173097	2016	Japan	Grus monacha	Migratory birds
+DRR173098	2016	Japan	Grus monacha	Migratory birds
+DRR173099	2016	Japan	Grus monacha	Migratory birds
+DRR173100	2016	Japan	Grus monacha	Migratory birds
+DRR173101	2016	Japan	Grus monacha	Migratory birds
+SRR5431712	2013	New Zealand	Strigops habroptilus	Resident birds
+SRR5431713	2013	New Zealand	Strigops habroptilus	Resident birds
+SRR5431714	2013	New Zealand	Strigops habroptilus	Resident birds
+SRR5431715	2013	New Zealand	Strigops habroptilus	Resident birds
+SRR5431716	2013	New Zealand	Strigops habroptilus	Resident birds
+SRR5431717	2013	New Zealand	Strigops habroptilus	Resident birds
+ERR11205105	2018	"Innlandet, Stor-Elvdal"	Tetrao urogallus	Resident birds
+SRR7039258	2014	Norway(69.81¡«N 18.78¡«E)	Lagopus muta	Resident birds
+SRR7039257	2014	Norway(69.81¡«N 18.78¡«E)	Lagopus muta	Resident birds
+SRR7039256	2014	Norway(69.81¡«N 18.78¡«E)	Lagopus muta	Resident birds
+SRR7039255	2014	Norway(69.81¡«N 18.78¡«E)	Lagopus muta	Resident birds
+SRR7039262	2014	Svalbard(78¡«N 16¡«E)	Lagopus muta	Resident birds
+SRR7039263	2014	Svalbard(78¡«N 16¡«E)	Lagopus muta	Resident birds
+SRR7039260	2014	Svalbard(78¡«N 16¡«E)	Lagopus muta	Resident birds
+SRR7039259	2014	Svalbard(78¡«N 16¡«E)	Lagopus muta	Resident birds
+SRR7039261	2014	Svalbard(78¡«N 16¡«E)	Lagopus muta	Resident birds
+ERR11205103	2018	"Troms og Finnmark, Dividalen"	Tetrao urogallus	Resident birds
+ERR11205108	2018	"Tr?ndelag, Steinkjer"	Tetrao urogallus	Resident birds
+ERR11205109	2018	"Tr?ndelag, Steinkjer"	Tetrao urogallus	Resident birds
+ERR11205104	2018	"Tr?ndelag, Trondheim"	Tetrao urogallus	Resident birds
+ERR11205106	2018	"Tr?ndelag, Trondheim"	Tetrao urogallus	Resident birds
+ERR11205107	2018	"Tr?ndelag, Trondheim"	Tetrao urogallus	Resident birds
+SRR13307418	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307419	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307420	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307421	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307422	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307423	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307424	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307425	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307426	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307427	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307428	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307429	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307430	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307431	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307432	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307433	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307434	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307435	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307436	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307437	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307438	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307439	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307440	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307441	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307442	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307443	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307444	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307445	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307446	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307447	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307448	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307449	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307450	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307451	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307452	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307453	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307454	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307455	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307456	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307457	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307458	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307459	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307460	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307461	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307462	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307463	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307464	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307465	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307466	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307467	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307468	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307469	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307470	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307471	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307472	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307473	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307474	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307475	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307476	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307477	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307478	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307479	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307480	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307481	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307482	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307483	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307484	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307485	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307486	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307487	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307488	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307489	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307490	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307491	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307492	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307493	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307494	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307495	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307496	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307497	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307498	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307499	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307500	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307501	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307502	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307503	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307504	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307505	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307506	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307507	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307508	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307509	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307510	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307511	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307512	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307513	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307514	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307515	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307516	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307517	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307518	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307519	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307520	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307521	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307522	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307523	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307524	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307525	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307526	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307527	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307528	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307529	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307530	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307531	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307532	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307533	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307534	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307535	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307536	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307537	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307538	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307539	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307540	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307541	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307542	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307543	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307544	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307545	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307546	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307547	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307548	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307549	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307550	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307551	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307552	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307553	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307554	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307555	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307556	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307557	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307558	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307559	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307560	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307561	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307562	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307563	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307564	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307565	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307566	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307567	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307568	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307569	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307570	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307571	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307572	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307573	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307574	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307575	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307576	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307577	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307578	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307579	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307580	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307581	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307582	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307583	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307584	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307585	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307586	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307587	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307588	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307589	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307590	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307591	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307592	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307593	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307594	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307595	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307596	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307597	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307598	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307599	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307600	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307601	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307602	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307603	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307604	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307605	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307606	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307607	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307608	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307609	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307610	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307611	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307612	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307613	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307614	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307615	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307616	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307617	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307618	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307619	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307620	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307621	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307622	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR13307623	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091304	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091305	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091306	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091307	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091308	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091309	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091310	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR26091311	2016	"Abbotsbury,Weymouth"	Cygnus olor	Resident birds
+SRR21527946	2018	USA	Branta canadensis	Migratory birds
+SRR21527948	2018	USA	Branta canadensis	Migratory birds
+SRR21527944	2018	USA	Branta canadensis	Migratory birds
+SRR21527945	2018	USA	Branta canadensis	Migratory birds
+SRR21527956	2018	USA	Branta canadensis	Migratory birds
+SRR21527943	2018	USA	Branta canadensis	Migratory birds
+SRR21527947	2018	USA	Branta canadensis	Migratory birds
+SRR21527967	2018	USA	Branta canadensis	Migratory birds
+SRR21527968	2018	USA	Branta canadensis	Migratory birds
